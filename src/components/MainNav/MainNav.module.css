@@ -1,0 +1,14 @@
+.phonebookLink {
+  display: inline-block;
+  text-decoration: none;
+  margin-left: 15px;
+  padding: 12px;
+  font-weight: 700;
+  font-size: 18px;
+  color: skyblue;
+}
+
+.phonebookLink:hover,
+.phonebookLink:focus {
+  color: #ceb087;
+}
