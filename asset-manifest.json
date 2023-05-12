@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/47-projects-react-task08-phonebook-hooks/static/css/main.5422ad94.css",
+    "main.js": "/47-projects-react-task08-phonebook-hooks/static/js/main.17392aa6.js",
+    "home-page.css": "/47-projects-react-task08-phonebook-hooks/static/css/home-page.bae6a350.chunk.css",
+    "home-page.js": "/47-projects-react-task08-phonebook-hooks/static/js/home-page.6ec6bb15.chunk.js",
+    "login-page.css": "/47-projects-react-task08-phonebook-hooks/static/css/login-page.5cdd47b1.chunk.css",
+    "login-page.js": "/47-projects-react-task08-phonebook-hooks/static/js/login-page.366e68a7.chunk.js",
+    "regiter-page.css": "/47-projects-react-task08-phonebook-hooks/static/css/regiter-page.fc7bd778.chunk.css",
+    "regiter-page.js": "/47-projects-react-task08-phonebook-hooks/static/js/regiter-page.ceb9a52f.chunk.js",
+    "contacts-page.css": "/47-projects-react-task08-phonebook-hooks/static/css/contacts-page.31b040db.chunk.css",
+    "contacts-page.js": "/47-projects-react-task08-phonebook-hooks/static/js/contacts-page.f28bd1b3.chunk.js",
+    "static/media/default-avatar.png": "/47-projects-react-task08-phonebook-hooks/static/media/default-avatar.e44fc4e22a4ce55fbe43.png",
+    "index.html": "/47-projects-react-task08-phonebook-hooks/index.html",
+    "main.5422ad94.css.map": "/47-projects-react-task08-phonebook-hooks/static/css/main.5422ad94.css.map",
+    "main.17392aa6.js.map": "/47-projects-react-task08-phonebook-hooks/static/js/main.17392aa6.js.map",
+    "home-page.bae6a350.chunk.css.map": "/47-projects-react-task08-phonebook-hooks/static/css/home-page.bae6a350.chunk.css.map",
+    "home-page.6ec6bb15.chunk.js.map": "/47-projects-react-task08-phonebook-hooks/static/js/home-page.6ec6bb15.chunk.js.map",
+    "login-page.5cdd47b1.chunk.css.map": "/47-projects-react-task08-phonebook-hooks/static/css/login-page.5cdd47b1.chunk.css.map",
+    "login-page.366e68a7.chunk.js.map": "/47-projects-react-task08-phonebook-hooks/static/js/login-page.366e68a7.chunk.js.map",
+    "regiter-page.fc7bd778.chunk.css.map": "/47-projects-react-task08-phonebook-hooks/static/css/regiter-page.fc7bd778.chunk.css.map",
+    "regiter-page.ceb9a52f.chunk.js.map": "/47-projects-react-task08-phonebook-hooks/static/js/regiter-page.ceb9a52f.chunk.js.map",
+    "contacts-page.31b040db.chunk.css.map": "/47-projects-react-task08-phonebook-hooks/static/css/contacts-page.31b040db.chunk.css.map",
+    "contacts-page.f28bd1b3.chunk.js.map": "/47-projects-react-task08-phonebook-hooks/static/js/contacts-page.f28bd1b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5422ad94.css",
+    "static/js/main.17392aa6.js"
+  ]
+}
