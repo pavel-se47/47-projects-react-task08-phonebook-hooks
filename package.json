@@ -55,6 +55,8 @@
     ]
   },
   "devDependencies": {
+    "@pnotify/core": "^5.2.0",
+    "@pnotify/mobile": "^5.2.0",
     "eslint": "^8.31.0",
     "husky": "^8.0.3",
     "lint-staged": "^13.1.0",
